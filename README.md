@@ -4,7 +4,7 @@
 用4個long long分別儲存地圖資訊：箱子，終點，人，牆壁  
 再儲存在vector以及map中  
 生出新盤面時用map確認是否為之前已搜索過的重複盤面  
-並測試助教提供的三筆測資 tiny slall medium
+並測試助教提供的三筆測資 tiny sall medium
 
 ### Symbol 
 |       | move    | push    | pull     | 
