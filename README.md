@@ -13,9 +13,13 @@
 
 ### Legend of Map
 \# wall
+
 @ player on non-goal
+
 \+ player on goal
+
 $ box on non-goal
+
 \* box on goal
 
 ##
