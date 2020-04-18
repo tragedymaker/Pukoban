@@ -12,7 +12,7 @@
 | right | r       | R       | >        |
 
 ### Legend of Map
-#
+"#" wall
 
 ##
 ./pukobansolver [testdata] [outputdata]
