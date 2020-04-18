@@ -10,6 +10,8 @@
 | down  | d       | D       | v        |
 | left  | l       | L       | <        |
 | right | r       | R       | >        |
+
+### Legend of Map
 #
 
 ##
