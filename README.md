@@ -17,5 +17,7 @@
 \+ player on goal  
 $ box on non-goal  
 \* box on goal  
+. goal
+\- nongoal
 ##
 ./pukobansolver [testdata] [outputdata]
