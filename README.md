@@ -25,10 +25,10 @@ make
 
 ## How to execute
 ### My solver
-./pukobansolver [testdata] [outputdata]
+./pukobansolver [testdata] [outputdata]  
 to solve the testdata and write the answer in outputdata
 ### Verifer the answer
-./verifier -i [testdata] -o [outputdata]
+./verifier -i [testdata] -o [outputdata]  
 to check whether outputdata solve testdata
 ### Play yourself
 ./pukoban -i [testdata]
