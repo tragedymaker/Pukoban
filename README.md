@@ -11,9 +11,8 @@
 | left  | l       | L       | <        |
 | right | r       | R       | >        |
 
-### Legend of Map
+### Legends of Map
 \# wall
-
 @ player on non-goal
 
 \+ player on goal
