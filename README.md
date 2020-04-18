@@ -12,7 +12,11 @@
 | right | r       | R       | >        |
 
 ### Legend of Map
-"#" wall
+\#\ wall
+@ player on non-goal
++ player on goal
+$ box on non-goal
+* box on goal
 
 ##
 ./pukobansolver [testdata] [outputdata]
