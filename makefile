@@ -4,7 +4,7 @@ all:
 	$(CPLUSPLUS) src/*.cpp -c
 	$(CPLUSPLUS) game.o getch.o pukoban.o -o pukoban
 	$(CPLUSPLUS) verifier.o pukoban.o -o verifier
-	$(CPLUSPLUS) mysolver.o pukoban.o -o pukobansolver
+	$(CPLUSPLUS) solver.o pukoban.o -o pukobansolver
 	$(DEL) -f *.o
 pukoban:
 	$(CPLUSPLUS) src/*.cpp -c
@@ -16,7 +16,7 @@ verifier:
 	$(DEL) -f *.o
 solve:
 	$(CPLUSPLUS) src/*.cpp -c
-	$(CPLUSPLUS) mysolver.o pukoban.o -o pukobansolver
+	$(CPLUSPLUS) solver.o pukoban.o -o pukobansolver
 	$(DEL) -f *.o
 clean:
 	$(DEL) -f pukoban verifier pukobansolver
