@@ -38,3 +38,4 @@ to check whether outputdata solve testdata
 ### Play yourself
 ./pukoban -i [testdata]
 
+![image](https://github.com/tragedymaker/Pukoban/blob/master/rknb8-tb5q7.gif)
